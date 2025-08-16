@@ -1,5 +1,5 @@
 body {
-  background-color: #ffffff;
+  background-color: #fafafa;
   padding:50px;
   font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color:#595959;
@@ -112,7 +112,7 @@ header {
 
 header ul {
   list-style:none;
-  height:40px;
+  height:100vh;
   padding:0;
   background: #f4f4f4;
   border-radius:5px;
@@ -193,6 +193,7 @@ footer {
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
+
 
 @media print, screen and (max-width: 960px) {
 
